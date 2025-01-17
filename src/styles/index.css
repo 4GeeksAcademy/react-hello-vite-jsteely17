@@ -9,3 +9,16 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.container {
+    width: 80%;
+}
+
+.jumbo_background {
+    background-color: gainsboro;
+    text-align: left;
+    height: 300px;
+}
+
+.title {
+    font-size: 72px;
+}

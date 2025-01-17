@@ -1,5 +1,8 @@
 import React from "react";
 import Nav from "./Nav";
+import Jumbo from "./Jumbo";
+import Cards from "./Cards";
+import Footer from "./Footer";
 
 //include images into your bundle
 import rigoImage from "../../img/rigo-baby.jpg";
@@ -9,6 +12,7 @@ const Home = () => {
 	return (
 		<div className="text-center">
             <Nav/>
+			<Jumbo/>
 		</div>
 	);
 };
