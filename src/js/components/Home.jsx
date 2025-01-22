@@ -13,6 +13,8 @@ const Home = () => {
 		<div className="text-center">
             <Nav/>
 			<Jumbo/>
+			<Cards/>
+			<Footer/>
 		</div>
 	);
 };

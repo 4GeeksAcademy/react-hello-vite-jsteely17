@@ -17,8 +17,35 @@
     background-color: gainsboro;
     text-align: left;
     height: 300px;
+    padding-left: 20px;
 }
 
 .title {
     font-size: 72px;
+}
+
+.card_container {
+    display: flex;
+    width: 100%;
+    
+}
+.card {
+    height: 300px;
+    margin: 20px;
+}
+
+.img_container {
+   height: 100px;
+}
+
+.btn_background {
+    background-color: gainsboro;
+    padding: 14px;
+}
+
+.copyright {
+    color: white;
+    background-color: black;
+    height: 80px;
+    padding-top: 30px;
 }
